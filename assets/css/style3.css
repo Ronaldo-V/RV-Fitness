@@ -16,7 +16,6 @@
   
   [class*="col-"] {
     float: left;
-    padding: 15px;
   }
   
   html {
@@ -33,25 +32,23 @@
   
   section {
     font-weight: 400;
-    padding: 0 2px 2px;
   }
 
-footer {
-    color: white;
-    font-weight: 400;
-    min-height: 60px;
-}
+  footer {
+      color: white;
+      font-weight: 400;
+      min-height: 60px;
+  }
 
-header a, footer a, section a {
-    font-weight: 500;
-    color: white;
-    padding: 5px;
-    text-decoration: underline;
-    transition: all 0.25s ease-in-out;
-    -moz-transition: all 0.25s ease-in-out;
-    -webkit-transition: all 0.25s ease-in-out;
-    -o-transition: all 0.25s ease-in-out;
-}
+  header a, footer a, section a {
+      font-weight: 500;
+      color: white;
+      text-decoration: underline;
+      transition: all 0.25s ease-in-out;
+      -moz-transition: all 0.25s ease-in-out;
+      -webkit-transition: all 0.25s ease-in-out;
+      -o-transition: all 0.25s ease-in-out;
+  }
 
 header a, footer a {
     font-size: x-large;
@@ -117,6 +114,11 @@ textarea {
   /* For mobile phones: */
   [class*="col-"] {
     width: 100%;
+    padding: 2px 3px;
+  }
+
+  section {
+    padding: 1px;
   }
 
   #logo-holder{
@@ -170,7 +172,7 @@ textarea {
   table td {
     width: 50%;
   }
-  
+
   #enquire-image{
     width: 100vw;
     padding: 0;
@@ -202,6 +204,14 @@ textarea {
     .col-s-11 {width: 91.66%;}
     .col-s-12 {width: 100%;}
 
+    [class*="col-"] {
+      padding: 2px 5px;
+    }
+
+    section {
+      padding: 2px;
+    }
+
     #logo-holder{
         text-align: left;
     }
@@ -210,16 +220,12 @@ textarea {
         min-height: 400px;
     }
 
-    section {
-        padding: 0 10px 10px;
-      }
+    #enquire-image{
+      width: 60vw;
+  }
 
     #form-area {
         width: 80%;
-    }
-
-    #enquire-image{
-        width: 60vw;
     }
 }
 
@@ -238,6 +244,14 @@ textarea {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
 
+    [class*="col-"] {
+      padding: 3px 7px;
+    }
+
+    section {
+      padding: 3px;
+    }
+
     #logo-holder{
         text-align: left;
     }
@@ -245,16 +259,12 @@ textarea {
     #hero-image, #hero-text{
         min-height: 600px;
     }
-  }
 
-  section {
-    padding: 0 20px 20px;
-  }
+    #enquire-image {
+      width: 40vw;
+    }
 
-  #form-area {
-    width: 60%;
-  }
-
-  #enquire-image {
-    width: 40vw;
+    #form-area {
+      width: 60%;
+    }
   }
