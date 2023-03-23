@@ -3,7 +3,7 @@
 # RVPT WEBSITE
 This is a Personal Training website designed to help provide information to people new to the fitness industry but more so, help generate leads (potential clients). 
 
-Ideally most users of this website are perhaps considering getting themselves a personal trainer. They will find this website useful, they would have hopefully learned at least one new thing about workouts or nutrition, they would have learnt more about myself and my PT business, but ultimately, they end up completing the enquiry form at the end, in the hopes that they end up becoming a client of mine.
+Ideally most users of this website are perhaps considering getting themselves a personal trainer. They will find this website useful, they would have hopefully learnt at least one new thing about workouts or nutrition, they would have learnt more about myself and my PT business, but ultimately, they end up completing the enquiry form at the end, in the hopes that they end up becoming a client of mine.
  
 ## TABLE OF CONTENTS
 | Section |
@@ -18,18 +18,29 @@ Ideally most users of this website are perhaps considering getting themselves a 
 | [Future Features](#future-features) |
 
 ## FEATURES
-- The navbar has a logo of the business with a dark background to separate it from the page contents.  
-- Just like the navbar, the footer has the same color theme. This color repetition and structure is said to make user experiences better. They like it when a website has a common theme/layout so that it then becomes quick to learn/easy to use. The green color used is supposed to be nice neutral color, but also represent grass and an outdoor feel as my sessions are predominantly delivered in parks.  
-- The footer is also being used as a sales point leading users to the enquire page and my social accounts, both designed to help bring in new clients.  
-- The first page is naturally the home page. Where users learn about the business. The next page is then all about workouts. As nutrition will partly depend on the workout style you opt for, people should first know what they want to train, so that when reading the nutrition, they know what they need to prioritise. Lastly, the enquire page, where if users have enjoyed the content and want to take it further and start personal training sessions, they are able to complete a form to begin PT.   
-- The Home page is deliberately designed and layed out in this manner, so that the first thing seen is the trainer, the business name and a brief overview of the business. It's supposed to reassure users that this is a legitimate business that they can trust in. Putting a face to the business is one of the first steps in helping users trust the business.  
-- It is followed by testimonials to help further the users trust into the business and to provide them with previous client experiences and what they could be receiving too should they sign up to PT.  
-- On the workouts page, weightlifting must be first for two reasons. Firstly, I specialise in strength training, so it naturally makes sense to talk about this first. Secondly, there is a lot of misconception regarding weightlifting, so before we go any further, I feel as though this should be clarified.  
-- The cardio section will then go next followed by stretching, due to the popularity and importance the two have in my business (cardio being more important).  
-- We then move onto the Nutritions page where we talk about the 3 main macronutrients which are the main sources of fuel our body needs. A typical person will need 50% carbs, 30% protein, 20% fats, hence why I presented them in this order.  
-- Lastly, the enquire page, summarising why you should train with me, followed by a form to complete if interested in personal training. 
-- Each photo is deliberately selected to match with the topic we are talking about. All text is written over the photo relating to that section which we are talking about. I aim to create clear division in topics by having them displayed on different photos. So each photo, is a different topic. This structure stayed consistent throughout to keep the user experience good.
-- As this website has many pictures with lots of colors, I wanted to keep the text simple and clear, which is why I opted for a lack of font-awesome icons and a dark shade over photos to aid the reading experience. Plus I feel as though the font-awesome icons would have just been of the same thing as the background image, which I feel there is no need to repeat.  
+- The color scheme of the website as a whole:
+    - A black background with white text. This is to the match the color scheme of the logo design.
+    - Thick, curved white borders around the navigation and footer to show clear separation from them to the main content of the page.
+    - Colourful images with a dark background. This allows the images to stand out more than they would have if they had a white background.
+    - Green text when hovering over links. This is a darker, more subtle, calmer shade of green which complements the vibrant photos, but more so represent the color of grass from parks. This is because most sessions are predominantly delivered in local parks.
+
+- The structure of the website: 
+    - As all good websites have, each page will have a navigation menu at the top of the page and a footer at the bottom of the page. This color and structure repetition is said to make user experiences better. They like it when a website has a common theme/layout so that it then becomes quick to learn and easy to navigate.
+    - The first page is naturally the home page. Where users learn about the business. As client testimonials are a major factor in gaining new clients, this will be on the home page just below the hero image.
+    - The next two pages is then all about workouts then nutrition. As nutrition will partly depend on the workout style you opt for, people should first know what they want to train, so that when reading the nutrition, they know what they need to prioritise. 
+    - Lastly, the enquire page, where if users have enjoyed the content and want to take it further and start personal training sessions, they are able to complete a form where the training can then get their contact info so that they can begin personal training sessions.
+
+- The content provided in the website:
+    - The Home page is deliberately designed and layed out in this manner, so that the first thing seen is the trainer, the business name and a brief overview of the business. It is supposed to reassure users that this is a legitimate business in which they can trust in. Furthermore, putting a face to the business is one of the first steps in helping users trust the business.  
+    - It is followed by testimonials to help further the users trust into the business and to provide them with previous client experiences and what they could be receiving too should they sign up to PT.
+    - On the workouts page, weightlifting must be first for two reasons. Firstly, I specialise in strength training, so it naturally makes sense to talk about this first. Secondly, there is a lot of misconception regarding weightlifting, so before we go any further, I feel as though this should be clarified.  
+    - The cardio section will then go next due to its popularity and importance it has in my business.
+    - It is followed by stretching as it's the least important in my business and sales techniques. Also, we tend to do stretching at the end of a workout, so this workout page nicely mirrors my workouts with clients (weights first, then some cardio, followed by some stretching at the end of a workout).
+    - We then move onto the Nutritions page where we talk about the 3 main macronutrients which are the main sources of fuel our body needs. A typical person will need 50% carbs, 30% protein, 20% fats, hence why I presented them in this order.  
+    - Lastly, the enquire page, summarising why you should train with me, followed by a form to complete if interested in personal training. 
+    - At the bottom of each page there will be a footer. The footer is being used as a sales point leading users to the enquire page and my social accounts, both designed to help bring in new clients.
+    - Each photo is deliberately selected to match with the topic we are talking about. All text is written next to the photo relating to that section we are talking about. I aim to create clear division in topics by having them displayed on different photos. So each photo, is a different topic. This structure stays consistent throughout to keep the user experience good.
+    - As this website has many pictures with lots of colors, I wanted to keep the text simple and clear, which is why I opted for a lack of font-awesome icons. Plus I feel as though the font-awesome icons would have just been of the same thing as the image, which I feel there is no need to repeat.  
 
 ## UX/UI SECTION  
 
