@@ -51,7 +51,7 @@
   }
 
 header a, footer a {
-    font-size: x-large;
+    font-size: large;
 }
 
 footer a i {
@@ -72,6 +72,15 @@ a:hover {
 
 h2 {
     text-decoration: underline;
+}
+
+h5 {
+  margin: 0;
+  border: 0 0 5px;
+}
+
+footer h5 {
+  padding: 10px 0;
 }
 
 .font-italic {
@@ -119,6 +128,10 @@ textarea {
 
   section {
     padding: 1px;
+  }
+
+  header a, footer a {
+    font-size: x-large;
   }
 
   #logo-holder{
@@ -174,19 +187,23 @@ textarea {
   }
 
   #enquire-image{
-    width: 100vw;
+    width: 90vw;
     padding: 0;
     margin: auto;
   }
 
   #form-area {
-    margin: 0 auto 3%;
-    padding: 2%;
+    margin: 20px auto;
+    padding: 20px;
     width: 100%;
     background-color: white;
     color: black;
-    border: 10px solid black;
+    border: 10px  solid #065e00;
     border-radius: 15px;
+  }
+
+  #form-area h5 {
+    padding-bottom: 15px;
   }
 
   @media only screen and (min-width: 600px) {
