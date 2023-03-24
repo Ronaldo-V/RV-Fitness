@@ -34,10 +34,15 @@
     font-weight: 400;
   }
 
+  header{
+    margin-bottom: 15px;
+  }
+
   footer {
       color: white;
       font-weight: 400;
       min-height: 60px;
+      margin-top: 15px;
   }
 
   header a, footer a, section a {
@@ -127,7 +132,7 @@ textarea {
   }
 
   section {
-    padding: 1px;
+    padding: 0 1%;
   }
 
   header a, footer a {
@@ -151,6 +156,11 @@ textarea {
     background-repeat: no-repeat;
     min-height: 200px;
     height: auto;
+    border-radius: 15px;
+  }
+
+  img {
+    border-radius: 15px;
   }
 
   #hero-text{
@@ -226,7 +236,7 @@ textarea {
     }
 
     section {
-      padding: 2px;
+      padding: 0 5%;
     }
 
     #logo-holder{
@@ -266,7 +276,7 @@ textarea {
     }
 
     section {
-      padding: 3px;
+      padding: 0 10%;
     }
 
     #logo-holder{
@@ -283,5 +293,53 @@ textarea {
 
     #form-area {
       width: 60%;
+    }
+  }
+
+  @media only screen and (min-width: 992px) {
+    /* For large desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+
+    [class*="col-"] {
+      padding: 4px 10px;
+    }
+
+    section {
+      padding: 0 15%;
+    }
+  }
+
+  @media only screen and (min-width: 1200px) {
+    /* For x large desktop: */
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+
+    [class*="col-"] {
+      padding: 5px 10px;
+    }
+
+    section {
+      padding: 0 17.5%;
     }
   }
