@@ -25,6 +25,12 @@
     font-weight: 400;
   }
 
+  /*
+  #navigation {
+    display: block;
+  }
+  */
+
   header, footer {
     color: white !important;
     border: 5px solid white;
@@ -165,13 +171,10 @@ textarea {
     padding: 1%;
   }
 
-  header a, footer a {
-    font-size: x-large;
-  }
-
   #logo-holder{
     width: 100%;
     display: block;
+    text-align: center;
   }
 
   #pt-logo-nav{
@@ -267,16 +270,16 @@ textarea {
       padding: 2px 5px;
     }
 
+    .col-9 {
+      display: inline-flex;
+    }
+
     h1 {
       font-size: 275%;
     }
 
     section {
       padding: 1.5% 5%;
-    }
-
-    #logo-holder{
-        text-align: left;
     }
 
     #hero-image, #hero-text{
