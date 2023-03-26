@@ -37,10 +37,6 @@
     border-radius: 15px;
   }
 
-  header{
-    margin-bottom: 15px;
-  }
-
   footer {
       color: white;
       font-weight: 400;
@@ -59,7 +55,7 @@
   }
 
 header a, footer a {
-    font-size: large;
+    font-size: 140%;
 }
 
 footer a i {
@@ -85,12 +81,13 @@ h1 {
   word-spacing: 10px;
   text-transform: uppercase;
   text-decoration: underline;
-  padding: 0 2.5%;
+  padding: 0 1.5%;
 }
 
 h2 {
     text-decoration: underline;
     font-size: 200%;
+    margin-top: 0;
 }
 
 h3 {
@@ -102,7 +99,12 @@ h3 {
 
 h4 {
   font-size: 150%;
-  margin: 12px;
+  margin: 12px 0;
+}
+
+h5, label, input, ::placeholder {
+  font-size: 110%;
+  font-weight: 500;
 }
 
 h6 {
@@ -121,25 +123,48 @@ footer h4 {
 p {
   letter-spacing: 0.5px;
   word-spacing: 1.5%;
+  font-size: 110%;
 }
 
 .font-italic {
     font-style: italic;
   }
 
+  #enquire-text {
+    padding-top: 0;
+  }
+
 #enquire-text h4 {
   font-size: 120%;
-
 }
 
 .form-area {
     padding: 0 15% 3%;
 }
 
+label {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+
+input[type=checkbox] {
+  accent-color: #0a9200;
+}
+
+input[type='text'], input[type='email']  {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 110%;
+  font-weight: 500;
+}
+
 textarea {
-    width: 70%;
-    height: 80px;
-    border: 3%;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 110%;
+  font-weight: 500;
+  width: 70%;
+  height: 80px;
+  border: 3%;
+  resize: none;
 }
 
 .submit-button {
@@ -180,6 +205,7 @@ textarea {
   #pt-logo-nav{
     width: 100px;
     height: 80px;
+    vertical-align: middle;
   }
 
   #hero-image{
@@ -199,6 +225,7 @@ textarea {
 
   #hero-text{
     min-height: 200px;
+    padding: 5% 0;
   }
 
   #hero h4{
@@ -230,10 +257,12 @@ textarea {
     display: block;
     text-align: center;
     padding: 1%;
+    font-size: 110%;
   }
 
   li {
     padding: 1%;
+    font-size: 110%;
   }
 
   #enquire-image{
@@ -273,10 +302,19 @@ textarea {
 
     .col-9 {
       display: inline-flex;
+      padding: 25px 0 !important;
     }
 
     h1 {
       font-size: 275%;
+    }
+
+    h3 {
+      font-size: 120%;
+    }
+
+    h6 {
+      font-size: 100%;
     }
 
     section {
@@ -323,6 +361,14 @@ textarea {
 
     h1 {
       font-size: 350%;
+    }
+
+    h3 {
+      font-size: 140%;
+    }
+
+    h6 {
+      font-size: 120%;
     }
 
     section {
