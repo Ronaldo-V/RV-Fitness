@@ -138,8 +138,10 @@ p {
   font-size: 120%;
 }
 
-.form-area {
-    padding: 0 15% 3%;
+.form-details{
+  width: 50vw;
+  display: block;
+  margin: auto;
 }
 
 label {
@@ -338,6 +340,11 @@ textarea {
     #form-area {
         width: 80%;
     }
+
+    .form-details{
+      width: 30vw;
+      display: inline-block;
+    }
 }
 
   @media only screen and (min-width: 768px) {
@@ -389,6 +396,11 @@ textarea {
 
     #form-area {
       width: 60%;
+    }
+
+    .form-details{
+      width: 20vw;
+      display: inline-block;
     }
   }
 
