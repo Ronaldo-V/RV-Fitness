@@ -169,6 +169,13 @@ Eatwell:
 - https://stackoverflow.com/questions/14628601/can-i-add-background-color-only-for-padding  
 - https://medium.com/@dylanon/throwing-shade-how-to-shade-images-in-html-css-9d37b17b9d10  
 - https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors  
+- https://stackoverflow.com/questions/39253912/changing-the-color-of-checkbox-if-checked 
+
+this is for the checkbox color
+
+- https://stackoverflow.com/questions/8083430/how-to-change-the-font-and-font-size-of-an-html-input-tag
+
+this is for font and size change of input tag
 
 #### Links used to help write HTML code:  
 Bootstrap:  
