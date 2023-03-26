@@ -25,12 +25,6 @@
     font-weight: 400;
   }
 
-  /*
-  #navigation {
-    display: block;
-  }
-  */
-
   header, footer {
     color: white !important;
     border: 5px solid white;
@@ -130,9 +124,9 @@ p {
     font-style: italic;
   }
 
-  #enquire-text {
-    padding-top: 0;
-  }
+#enquire-text {
+  padding-top: 0;
+}
 
 #enquire-text h4 {
   font-size: 120%;
@@ -275,7 +269,7 @@ textarea {
 
   #form-area {
     margin: 20px auto;
-    padding: 20px;
+    padding: 10px;
     width: 100%;
     background-color: white;
     color: black;
@@ -400,7 +394,6 @@ textarea {
 
     .form-details{
       width: 20vw;
-      display: inline-block;
     }
   }
 
