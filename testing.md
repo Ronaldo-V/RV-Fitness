@@ -3,11 +3,26 @@
 ### Responsiveness test
 Test home page and workout page on xl, lg, m and s screens.
 
-Check for responsiveness of Nav, general content, images and footer, all get shrink/expand accordingly.
+Checking the responsiveness of the website.
+- The website should shrink/expand accordingly with the layout changing ever so slightly depending on the screen width size of the device.
+- All Content must be readable 
+- Images should maintain its quality regardless of screen size.
+- All links should work regardless of the device being used.
 
-| Content responsiveness for various viewports | Text, images and all other related content should shrink when the device screen width gets smaller | I pressed inspect on my website, selected the device toolbar, changed the device to a smaller screen width | Images and text shrink while layout changes slightly. Relevant photo [here](#content-responsiveness) |
-| Website responsiveness for various viewports | My website should not be able to scroll horizontally | I pressed inspect on my website, selected the device toolbar, changed the device to a smaller screen width | I see a thin white trim down the right side of the device likely caused by padding. This does not effect the functionality of the website, but it does not look appealing to users. Relevant photo [here](#website-viewport-for-ipad-and-iphone)|
-| Nav responsiveness for various viewports | When I shrink my tab or load the website on a different device, The text, images and display will change slightly to suit the device I am on | I pressed inspect on my website, selected the device toolbar, changed the device to ipad, iphone and other devices | For devices 576px screen width+ there was no issues. But for devices 575px screen width or less, the Navbar disappeared. Relevant photo [here](#nav-viewport-for-iphone)|
+| Device screen width | Extra Small <576px | Small ≥576px | Medium ≥768px | Large ≥992px | Extra Large ≥1200px |
+| --- | --- | --- | --- | --- | --- |
+| Header / Navigation Responsiveness | Good | Good | Good | Good | Good |
+| All Images Responsiveness | Good | Good | Good | Good | Good |
+| All Text Responsiveness | Good | Good | Good | Good | Good |
+| Footer Responsiveness | Good | Good | Good | Good | Good |
+| Form Responsiveness | Good | Good | Good | Good | Good |
+
+
+| Feature |
+| --- | --- | --- | --- |
+| Content responsiveness for various viewports | Text, images and all other related content should shrink when the device screen width gets smaller | I pressed inspect on my website, selected the device toolbar, changed the device to a smaller screen width | Images and text shrink while layout changes slightly. Relevant photo [here}(#content-responsiveness) |
+| Website responsiveness for various viewports | My website should not be able to scroll horizontally | I pressed inspect on my website, selected the device toolbar, changed the device to a smaller screen width | I see a thin white trim down the right side of the device likely caused by padding. This does not effect the functionality of the website, but it does not look appealing to users. Relevant photo [here](#website-viewport-for-ipad-and-iphone) |
+| Nav responsiveness for various viewports | When I shrink my tab or load the website on a different device, The text, images and display will change slightly to suit the device I am on | I pressed inspect on my website, selected the device toolbar, changed the device to ipad, iphone and other devices | For devices 576px screen width+ there was no issues. But for devices 575px screen width or less, the Navbar disappeared. Relevant photo [here](#nav-viewport-for-iphone) |
 
 
 
