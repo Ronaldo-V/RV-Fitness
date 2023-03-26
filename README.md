@@ -93,7 +93,7 @@ As an existing client:
 
 ## TESTING
 
-[Testing can be found here](#testing.md)
+[Testing can be found here](/testing.md)
 
 ## DEPLOYMENT
 The project was developed in Gitpod, committed and push to GitHub through using the terminal section in Gitpod.

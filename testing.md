@@ -3,7 +3,7 @@
 ### Responsiveness test
 Test home page and workout page on xl, lg, m and s screens.
 
-Check for responisveness of Nav, general content, images and footer, all get shrink/expand acoringly.
+Check for responsiveness of Nav, general content, images and footer, all get shrink/expand accordingly.
 
 | Content responsiveness for various viewports | Text, images and all other related content should shrink when the device screen width gets smaller | I pressed inspect on my website, selected the device toolbar, changed the device to a smaller screen width | Images and text shrink while layout changes slightly. Relevant photo [here](#content-responsiveness) |
 | Website responsiveness for various viewports | My website should not be able to scroll horizontally | I pressed inspect on my website, selected the device toolbar, changed the device to a smaller screen width | I see a thin white trim down the right side of the device likely caused by padding. This does not effect the functionality of the website, but it does not look appealing to users. Relevant photo [here](#website-viewport-for-ipad-and-iphone)|
