@@ -14,7 +14,7 @@ Ideally most users of this website are perhaps considering getting themselves a 
 | [Testing](#testing) |
 | [Unfixed Bugs](#unfixed-bugs) |
 | [Deployment](#deployment) |
-| [Credit](#credit) |
+| [Citation of sources](#citation-of-sources) |
 | [Future Features](#future-features) |
 
 ## FEATURES
@@ -78,10 +78,6 @@ As a person wanting a PT:
 - I want to see if I can envision doing private sessions with the trainer by gettin to know them/the business better  
 - I need to see testimonials as I need to know how other people have found their training experinces with the PT
 
-As an existing client:  
-- I need a place where I can track workouts/food intake to see how much I am progressing  
-- I need a support center with others going through the same process as me to help me stay on track when I feel like giving up  
-
 ### Wireframes:
 - ![RVPT website wireframe](wireframes/wireframe1.png)  
 - ![RVPT website wireframe](wireframes/wireframe2.png)  
@@ -113,11 +109,11 @@ Then follow the steps:
 1. Install Gitpod Browser Extensions for Chrome
 2. After installation, restart the browser
 3. Log into Gitpod with your Gitpod account
-4. Navigate to the projet GitHub repository
+4. Navigate to the project GitHub repository
 5. Click the green 'Gitpod' button in the top right corner of the repository
 6. This will trigger a new Gitpod workspace to be created from the code in GitHub where you can work locally
 
-## CREDIT  
+## CITATION OF SOURCES
 
 ### Media credit:  
 - I have used the Eatwell Guide image from the NHS (https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/) on my Nutritions page.  
